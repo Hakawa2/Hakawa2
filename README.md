@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+![akira](https://media2.giphy.com/media/3Z1kP6uFLMlyfuTA6A/giphy.gif)
+
+
+
 <!--
 **Hakawa2/Hakawa2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
